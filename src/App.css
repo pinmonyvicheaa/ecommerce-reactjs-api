@@ -1,0 +1,57 @@
+.size_buttons {
+    margin-bottom: 10px;
+  }
+  
+  .btn_size {
+    background-color: #f0f0f0;
+    border: none;
+    padding: 5px 10px;
+    margin-right: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .btn_size:hover {
+    background-color: #ddd;
+  }
+  
+  .shop_now_button .btn_1 {
+    background-color: #ffffff;
+    color: #9f75a6;
+    border: 1px solid #9f75a6 ;
+
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .shop_now_button .btn_1:hover {
+    background-color: #9f75a6;
+    color: #ffffff;
+  }
+  .bg{
+    background-color: #fef3ff;
+  }
+  
+
+
+
+  .buttonbg{
+    background-color: #9f75a6;
+    padding: 10px;
+    margin: 5px;
+  }
+  .buttonbg:hover{
+    background-color: #ddd;
+  }
+  .buttonbg1{
+    margin: 10px;
+  }
+
+
+
+
+  .headerbg{
+     background-color: #fff2f2;
+  }
+  

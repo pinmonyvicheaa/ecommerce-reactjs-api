@@ -1,0 +1,7 @@
+.product-description {
+    max-width: 200px;
+    /* You can adjust the width */
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
