@@ -21,4 +21,4 @@ If you are developing a production application, we recommend using TypeScript an
 3. in Terminal run "npm run dev"
 
 ## Full Code: Laravel+ReactJS
-https://github.com/pinmonyvicheaa/api-laravel
+https://github.com/pinmonyvicheaa/laravel-reactjs
