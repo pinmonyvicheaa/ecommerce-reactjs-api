@@ -1,6 +1,6 @@
-# reactjs-ecommerce-api
+# ecommerce-reactjs-api
 
-reactjs-ecommerce + Vite with Laravel API.
+ecommerce-reactjs + Vite with Laravel API.
 
 # React + Vite
 
