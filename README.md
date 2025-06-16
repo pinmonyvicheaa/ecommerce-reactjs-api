@@ -21,5 +21,5 @@ If you are developing a production application, we recommend using TypeScript an
 3. Don't forget to edit the API with the url: http:// (example: http://55.155.175.111)
 4. in Terminal run "npm run dev"
 
-## Full Code: Laravel+ReactJS
-https://github.com/pinmonyvicheaa/laravel-reactjs
+## Full Code: E-Commerce Laravel API + React JS
+https://github.com/pinmonyvicheaa/ecommerce-laravelapi-react
