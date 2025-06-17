@@ -21,5 +21,21 @@ If you are developing a production application, we recommend using TypeScript an
 3. Don't forget to edit the API with the url: http:// (Example: http://55.155.175.111)
 4. in Terminal run "npm run dev"
 
+## Run
+```
+http://localhost:5173/
+```
+
+## Test Dashboard
+- Login Admin
+```
+http://localhost:5173/admin
+```
+
+- Category
+```
+Add Category before you add Product.
+```
+
 ## Full Code: E-Commerce Laravel API + React JS
 https://github.com/pinmonyvicheaa/ecommerce-laravelapi-react
